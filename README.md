@@ -1,4 +1,4 @@
-### Application: A platform for tracking and managing user activity with multimedia content.
+###  A platform for tracking and managing user activity with multimedia content.
 
 Functionality: Users can post updates, upload images/videos, comment, like, and share.
 
