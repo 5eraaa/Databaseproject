@@ -1,5 +1,7 @@
 ### Application: A platform for tracking and managing user activity with multimedia content.
+
 Functionality: Users can post updates, upload images/videos, comment, like, and share.
+
 Key Features:
 User Registration: Users can create accounts with basic details.
 Content Management: Users can create, edit, delete, and categorize posts.
